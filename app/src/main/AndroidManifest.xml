@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kirozh.andersen_homework_2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Andersen_homework_2">
+        <activity
+            android:name=".Activities_and_intents.SecondIntentHomeworkActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities_and_intents.MainIntentHomeworkActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Implicit_intents.ImplicitIntentReceiverActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Implicit_intents.ImplicitIntentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activity_lifecycle_and_state.CounterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities_and_intents.SecondIntentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities_and_intents.MainIntentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Text_and_Scrolling_Views.ScrollingTextActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Interactive_UI.SecondInteractiveUIActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Interactive_UI.FirstInteractiveUIActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Android_Studio_and_Hello_World.HelloWorldActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
