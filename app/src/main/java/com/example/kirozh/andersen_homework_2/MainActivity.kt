@@ -3,9 +3,11 @@ package com.example.kirozh.andersen_homework_2
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.kirozh.andersen_homework_2.Activities_and_intents.MainActivityCodingChallenge
 import com.example.kirozh.andersen_homework_2.Activities_and_intents.MainIntentActivity
 import com.example.kirozh.andersen_homework_2.Activities_and_intents.MainIntentHomeworkActivity
 import com.example.kirozh.andersen_homework_2.Activity_lifecycle_and_state.CounterActivity
+import com.example.kirozh.andersen_homework_2.Activity_lifecycle_and_state.MainShoppingActivity
 import com.example.kirozh.andersen_homework_2.Android_Studio_and_Hello_World.HelloWorldActivity
 import com.example.kirozh.andersen_homework_2.Implicit_intents.ImplicitIntentActivity
 import com.example.kirozh.andersen_homework_2.Interactive_UI.FirstInteractiveUIActivity
@@ -29,15 +31,21 @@ class MainActivity : AppCompatActivity() {
 //        val intent_1_3 = Intent(this, ScrollingTextActivity::class.java)
 //        startActivity(intent_1_3)
         // 2.1 вторая activity - пакет Activities_and_intents
-        val intent_2_1 = Intent(this, MainIntentHomeworkActivity::class.java)
-        startActivity(intent_2_1)
+//        val intent_2_1 = Intent(this, MainIntentHomeworkActivity::class.java)
+//        startActivity(intent_2_1)
+        // 2.1 coding challenge
+//            val intent_2_1_coding_challenge = Intent(this, MainActivityCodingChallenge::class.java)
+//            startActivity(intent_2_1_coding_challenge)
         // 2.2 сохранение и восстановление состояния экземпляра активити -
     // пакет Activity Lifecycle and state
 //        val intent_2_2 = Intent(this, CounterActivity::class.java)
 //        startActivity(intent_2_2)
+        // 2.2 и 2.3 coding challenge
+//        val intent_2_2_coding_challenge = Intent(this, MainShoppingActivity::class.java)
+//        startActivity(intent_2_2_coding_challenge)
         // 2.3 неявные интенты - пакет Implicit Intent
-//        val intent_2_3 = Intent(this, ImplicitIntentActivity::class.java)
-//        startActivity(intent_2_3)
+        val intent_2_3 = Intent(this, ImplicitIntentActivity::class.java)
+        startActivity(intent_2_3)
 
 
     }

@@ -13,8 +13,7 @@
     <string name="article_title">Beatles Anthology Vol. 1</string>
     <string name="article_subtitle">Behind That Locked Door: Beatles Rarities!</string>
     <string name="article_text">In a vault deep inside Abbey Road Studios in London — protected by an unmarked, triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the <i>Let It Be</i> album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series.
-                For more information, see the Beatles Time Capsule at www.rockument.com.
-        \n\n
+                For more information, see the Beatles Time Capsule at www.rockument.com.\n\n
         This volume starts with the first new Beatle song, “Free as a Bird” (based on a John Lennon demo, found only on <i>The Lost Lennon Tapes Vol. 28</i>, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions.
         \n\n
         <b>Highlights include:</b>
@@ -53,4 +52,61 @@
     <string name="take_a_picture">take a picture</string>
 
     <string name="hello">Hello!</string>
+
+    <string name="macaroons_title">Macaroons</string>
+    <string name="who_doesnt_celebrate_christmas_title">Who does not celebrate Christmas</string>
+    <string name="was_it_better_before_title">Was it better before or not?</string>
+    <string name="choose_song_textview">Choose song</string>
+
+    <string name="gruppa_krovi_text">
+        Christmas is one of the most popular holidays on the planet. It seems strange but not everybody celebrate such a great holiday. It depends on the religion and the culture of people. So, who does not celebrate this holiday?
+    \n\n
+Firstly, it’s a religious holiday. Christians commemorate the birth of Christ. So people who are neither Christian nor believers don’t have holiday mood on this day.
+    \n\n
+Besides, other people refuse to take part in Christmas, because they consider that this holiday became too commercial. It’s true that in December stores are full of Christmas goods. And people spend a lot of money to have a good time with their friends, family and relatives. Most of them are ready to waste money for small useless presents. It is clear that they celebrate Christmas because it’s a family party and a great opportunity to be together.
+    \n\n
+Nevertheless this cheerful and commercial side of this holiday attracts some countries, for example, China. They have been celebrating Christmas for several years. But this holiday is not in their culture.
+\n\n
+And in many countries we can find the same traditions. Families decorate a tree, prepare a holiday meal, and wait for Santa Claus and his gifts. But each country also has its things. In the USA there are garlands of popcorn, and in Sweden there are goats made of straw.
+\n\n
+Someone doesn’t celebrate Christmas, but two billion people, nearly every third person in the world, celebrate Christmas. And this year it will be again, and it will be magic.
+\n\n
+\n\n
+    </string>
+
+    <string name="sun_star_text">
+        What is it a strange word? Macaroon. It seems that it has appeared recently and belongs to these modern words. But it is not true.
+    \n\n
+The macaroon is a soft cake of rounded shape that people have tasted since the middle Ages. It has from 3 to 5 cm in diameter. The macaroon recipe varies by the cook’s skills. Professionals cook more complicated recipes, but housewives can try to cook light variant of them.
+    \n\n
+Indeed, the preparation and cooking of macaroons is difficult even for professionals. To make a traditional macaroon, you need almond powder, icing sugar, sugar and egg whites. The amount of almond is equal to the amount of icing sugar.
+    \n\n
+The macaroon has different flavors and colors. Generally, the pink macaroon is made with strawberry or raspberry. The beige macaroon has vanilla flavor. The brown macaroon is made of chocolate or coffee. The yellow macaroon is made with lemon.
+    \n\n
+Recently it has been cooked a special macaroon which has two flavors. The ‘body’ and the ‘heart’ are different. For example, pear-orange and cherry-apple macaroons are very popular.
+    \n\n
+    </string>
+
+    <string name="vosmiklassnitsa_text">
+        Everyone could notice that people often complain and say that it was better before. It may be a little nostalgia; the old people would like to return in the 50s, forty-years-old people prefer the 70s. It can be explained of the life period when they were younger. As it’s known people like their youth time.
+    \n\n
+In general living is better now. We live when there aren\`t as many wars in the world as before. And people live longer; the level of lifespan is higher than it was 40 years ago. People work less and they can afford to go to the vacation and buy more things.
+    \n\n
+So, it is true that there is more pollution now than in the last century but there is more conveniences. Everyone has a shower, a TV, a fridge, a computer, etc. And now there are more means of communication than before. Earlier it was dangerous to travel and it was almost impossible to go around the world.
+    \n\n
+
+    </string>
+    <string name="rice">rice</string>
+    <string name="tomato">tomato</string>
+    <string name="potato">potato</string>
+    <string name="macaron">macaron</string>
+    <string name="wine">wine</string>
+    <string name="milk">milk</string>
+    <string name="chicken">chicken</string>
+    <string name="fish">fish</string>
+    <string name="meat">meat</string>
+    <string name="bread">bread</string>
+    <string name="banana">banana</string>
+    <string name="button">Button</string>
+    <string name="sausage">sausage</string>
 </resources>

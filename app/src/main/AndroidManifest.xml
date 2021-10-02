@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Andersen_homework_2">
         <activity
+            android:name=".Activity_lifecycle_and_state.SecondShoppingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activity_lifecycle_and_state.MainShoppingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities_and_intents.SecondActivityCodingChallenge"
+            android:exported="true" />
+        <activity
+            android:name=".Activities_and_intents.MainActivityCodingChallenge"
+            android:exported="true" />
+        <activity
             android:name=".Activities_and_intents.SecondIntentHomeworkActivity"
             android:exported="true" />
         <activity
